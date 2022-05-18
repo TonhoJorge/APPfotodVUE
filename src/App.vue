@@ -14,6 +14,7 @@
 
   </div>
 </template>
+
 <script>
 
 import { routes }  from './routes';
